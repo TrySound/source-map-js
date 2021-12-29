@@ -2,7 +2,7 @@
   "name": "source-map-js",
   "description": "Generates and consumes source maps",
   "version": "1.0.1",
-  "homepage": "https://github.com/7rulnik/source-map",
+  "homepage": "https://github.com/7rulnik/source-map-js",
   "author": "Valentin 7rulnik Semirulnik <v7rulnik@gmail.com>",
   "contributors": [
     "Nick Fitzgerald <nfitzgerald@mozilla.com>",
@@ -43,7 +43,7 @@
     "Gary Ye <garysye@gmail.com>",
     "Nicolas Lalevée <nicolas.lalevee@hibnet.org>"
   ],
-  "repository": "7rulnik/source-map",
+  "repository": "7rulnik/source-map-js",
   "main": "./source-map.js",
   "files": [
     "source-map.js",
